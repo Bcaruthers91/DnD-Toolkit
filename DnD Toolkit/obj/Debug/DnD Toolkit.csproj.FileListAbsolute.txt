@@ -1,0 +1,10 @@
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\bin\Debug\DnD Toolkit.exe.config
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\bin\Debug\DnD Toolkit.exe
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\bin\Debug\DnD Toolkit.pdb
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\obj\Debug\DnD Toolkit.csprojAssemblyReference.cache
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\obj\Debug\DnD_Toolkit.Form1.resources
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\obj\Debug\DnD_Toolkit.Properties.Resources.resources
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\obj\Debug\DnD Toolkit.csproj.GenerateResource.cache
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\obj\Debug\DnD Toolkit.csproj.CoreCompileInputs.cache
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\obj\Debug\DnD Toolkit.exe
+C:\Users\studentam\Documents\Ben Caruthers 2019\Personal Projects\DnD Toolkit\obj\Debug\DnD Toolkit.pdb
